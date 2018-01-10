@@ -1,0 +1,14 @@
+Farzyab Gohar 
+farzyabgohar@cmail.carleton.ca
+
+open the terminal and compile with this command:
+	gcc -o tran transmit.c bit_manipulation.c
+
+run tran
+
+run this command:
+	gcc -o recv receive.c bit_manipulation.c
+
+run recv
+
+copy the output/encoded message from tran and paste into recv to translate back into orignal message

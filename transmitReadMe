@@ -1,0 +1,15 @@
+Farzyab Gohar 
+farzyabgohar@cmail.carleton.ca
+Program purpose: transmit an encoded message using Hamming code
+
+Source files:
+transmit.c, bit_manipulation.c
+
+Exact compilation command:
+gcc -o tran transmit.c bit_manipulation.c
+
+Exact debugger compilation command:
+gcc -g -o tran transmit.c bit_manipulation.c
+
+Launching and operating instructions:
+./tran

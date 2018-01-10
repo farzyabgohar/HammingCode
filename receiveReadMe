@@ -1,0 +1,15 @@
+Farzyab Gohar 
+farzyabgohar@cmail.carleton.ca
+Program purpose: receive an encodedd message from transmit.c(read transmitReadMe) that was encoded using Hamming code and unpack it, making error corrections where needed
+
+Source files:
+receive.c, bit_manipulation.c
+
+Exact compilation command:
+gcc -o recv receive.c bit_manipulation.c
+
+Exact debugger compilation command:
+gcc -g –o recv receive.c bit_manipulation.c
+
+Launching and operating instructions:
+./recv
