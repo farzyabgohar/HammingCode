@@ -13,7 +13,7 @@ As part of the simulation, the program also corrects any 1-bit errors in the rec
 
 Revision:
 a. Initial code - Doron Nussbaum
-b. Revision - Farzyab Gohar
+b. Function Modifications - Farzyab Gohar
 
 */
 
